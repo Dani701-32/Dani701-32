@@ -1,6 +1,6 @@
 ﻿<div>
   <a href="https://github.com/Dani701-32">
-  <img height="180" width="420em" src="https://github-readme-stats.vercel.app/api?username=dani701-32&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180" width="420em" src="https://github-readme-stats.vercel.app/api?username=dani701-32&show_icons=true&theme=dark&include_all_commits=true" />
   <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani701-32&layout=compact&theme=dark"/>
 </div>
   <br>
